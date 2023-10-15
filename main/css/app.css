@@ -14,7 +14,7 @@ body,input{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background-color: #fff;
+    background-color: #070212;
     overflow: hidden;
 }
 
@@ -24,7 +24,7 @@ body,input{
     width: 2000px;
     height: 2000px;
     border-radius: 50%;
-    background: linear-gradient(-45deg, #009CFF, #131c2a);
+    background: linear-gradient(-45deg, #771a1a, #131c2a);
     top: -10%;
     right: 48%;
     transform: translateY(-50%);

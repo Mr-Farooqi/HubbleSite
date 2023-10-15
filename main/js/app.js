@@ -21,7 +21,7 @@ form.addEventListener("submit",(e)=>{
     const authenticated = authentication(username,password)
 
     if(authenticated){
-        window.location.href = "home.html"
+        window.location.href = "main/home_page.html"
     }else{
         alert("Incorrect username & password")
     }
